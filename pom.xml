@@ -22,14 +22,5 @@
         </dependency>
 
     </dependencies>
-    <properties>
-        <maven.compiler.source>3.10.1</maven.compiler.source>
-        <maven.compiler.target>3.10.1</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
 
-         <configuration>
-  <source>17.0.5</source> 
-  <target>17.0.5</target>
-</configuration>
 </project>
