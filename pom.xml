@@ -7,6 +7,17 @@
     <groupId>org.example</groupId>
     <artifactId>SpringMavenJenkins</artifactId>
     <version>1.0-SNAPSHOT</version>
+         
+         <pluginManagement>
+  <plugins>
+    <plugin>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-maven-plugin</artifactId>
+      <version>2.6.2</version>
+    </plugin>
+  </plugins>
+</pluginManagement>
+         
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -20,7 +31,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
             <version>2.6.2</version>
         </dependency>
-
+         
     </dependencies>
          
          <distributionManagement>
