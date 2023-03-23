@@ -26,7 +26,7 @@
          <distributionManagement>
         <repository>
             <id>SpringMavenJenkins</id>
-            <url>https://github.com/vishwsingh/SpringMavenJenkins.git/</url>
+            <url>https://github.com/vishwsingh/SpringMavenJenkins/</url>
         </repository>
     </distributionManagement>
 
