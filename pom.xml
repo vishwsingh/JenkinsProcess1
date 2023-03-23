@@ -22,5 +22,12 @@
         </dependency>
 
     </dependencies>
+         
+         <distributionManagement>
+        <repository>
+            <id>SpringMavenJenkins</id>
+            <url>https://github.com/vishwsingh/SpringMavenJenkins/</url>
+        </repository>
+    </distributionManagement>
 
 </project>
